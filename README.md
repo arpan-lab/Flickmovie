@@ -1,4 +1,6 @@
 See The Live Demo= https://flickmovies-ec28.onrender.com
+
+Search and FIND CONTENT UNDER TRENDING MOVIES
 # FlickTrend-trending-movies-at-a-glance
 =======
 <div align="center">
