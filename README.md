@@ -19,9 +19,7 @@ Search and FIND CONTENT UNDER TRENDING MOVIES
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets (Code to Copy)](#snippets)
-6. 🔗 [Assets](#links)
-7. 🚀 [More](#more)
+
 
 
 ## <a name="introduction">🤖 Introduction</a>
@@ -108,7 +106,7 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
-## <a name="snippets">🕸️ Snippets</a>
+
 
 <details>
 <summary><code>index.css</code></summary>
